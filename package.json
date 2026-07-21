@@ -1,0 +1,23 @@
+{
+  "name": "session-4-tokenized-incentives",
+  "version": "1.0.0",
+  "description": "team1 Kenya Mini Hack Cohort 2 - Session 4: a solvent, closed-loop ERC-20 incentive token on Avalanche Fuji (Hardhat + Foundry)",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:fuji": "hardhat run scripts/deploy.js --network fuji",
+    "interact:fuji": "hardhat run scripts/interact.js --network fuji"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^17.4.2",
+    "hardhat": "^2.29.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.6.1"
+  }
+}
