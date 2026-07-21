@@ -55,7 +55,7 @@ Sessions run Tuesdays and Thursdays at 8:00 PM EAT on Google Meet. Every quest h
 
 **2. A quest submission** — evidence of your work on the cohort's quest platform (link posted in Telegram and the programme site): contract address, Snowtrace links, screenshots, your one-slide economy, and your GitHub PR link.
 
-A PR without a quest submission is incomplete. A quest submission without a PR link is incomplete. **Quest 4 hard deadline: Tuesday, July 21 — ideally before the Jam (Friday, July 17).** Reviews land within 48 hours.
+A PR without a quest submission is incomplete. A quest submission without a PR link is incomplete. **Quest 4 hard deadline: Tuesday, July 21 (today) — ideally before the Jam (Friday, July 24).** Reviews land within 48 hours.
 
 ---
 
