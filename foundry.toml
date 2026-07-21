@@ -1,0 +1,13 @@
+# Foundry config — coexists with Hardhat in the same repo.
+[profile.default]
+src = "contracts"
+test = "test"
+script = "script"
+out = "out"
+cache_path = "cache_forge"
+libs = ["lib", "node_modules"]
+solc_version = "0.8.24"
+remappings = ["@openzeppelin/=node_modules/@openzeppelin/"]
+
+[rpc_endpoints]
+fuji = "${FUJI_RPC_URL}"
