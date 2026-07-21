@@ -77,11 +77,11 @@ Deploy **your** incentive token to Fuji with a working earn flow AND redeem flow
 2. **Your one-slide economy** — the Duka Rewards shape from the deck: reward rate, redemption value, cap, worst-case cost, expected redemption. *"Can it survive success?"* is graded.
 3. Your fork URL. First modifications worth making: rename the token from Duka (constructor's `ERC20("...", "...")` line), tune the cap to *your* worked economy, or flip it open-loop and defend the choice.
 
-**This quest and your Jam project overlap by design — build once, use twice.** Hard deadline: Tuesday, July 21 (ideally before the Jam).
+**This quest and your Jam project overlap by design — build once, use twice.** Hard deadline: Tuesday, July 21 (today) — ideally before the Jam (Friday, July 24).
 
-## The Jam is tomorrow night 🔥
+## The Jam is this Friday 🔥
 
-Friday, July 17 · Blockchain Centre Nairobi · doors 7 PM · demos at dawn. This token + Session 3's mechanics + Session 2's ledger = your starting stack. **Deployed, not demoed.**
+Friday, July 24 · Blockchain Centre Nairobi · doors 7 PM · demos at dawn. This token + Session 3's mechanics + Session 2's ledger = your starting stack. **Deployed, not demoed.**
 
 ## Getting help
 
